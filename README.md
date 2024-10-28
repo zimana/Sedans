@@ -1,1 +1,3 @@
-This data is an example of vehicle data - Make, model, mileage, engine, MSRP, and source of data (Car and Driver)
+This data displays vehicle data for the 2023 family sedans in the US market.
+The dataset contains Make, model, mileage, engine, MSRP, and other details
+The source of data (Car and Driver) is included in the last column.
