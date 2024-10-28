@@ -1,0 +1,26 @@
+Make ,Model ,Year,0 - 60,MPG,CLY,DISPL,HP,WT,MSRP,Length,WB,Link
+,,,,,,,,,,,,
+Chevrolet,Malibu,2024,7.8,30/34 mpg,  4 Cylinder,1.5L,163,3135,"$26,195 ",194.2,111,https://www.caranddriver.com/chevrolet/malibu
+Honda,Accord,2024,6.5,32 / 29 / 37 mpg,4 Cylinder,1.5L,192,3239,"$28,990 ",195.7,111.4,https://www.caranddriver.com/honda/accord
+Honda,Civic,2024,7.3,33 / 30 / 37 mpg,4 Cylinder,2.0L,158,2935,"$25,045 ",184,107.7,https://www.caranddriver.com/honda/civic-2024
+Hyundai ,Elantra,2024,8.4,36 / 32 / 41 mpg,4 Cylinder,2.0L,147,2868,"$22,775 ",184.1,107.1,https://www.caranddriver.com/hyundai/elantra
+Hyundai,Sonata,2024,7.1,29 / 25/ 36 mpg,4 Cylinder,2.5L,191,3305,"$28,650 ",193.3,111.8,https://www.caranddriver.com/hyundai/sonata
+Kia ,Cardenza,2020,6.7,23 / 20 / 28 mpg,V6,3.3L,290,3799,"$38,885 ",196.7,112.4,https://www.caranddriver.com/kia/cadenza/specs/2017/Cadenza-Sedan/390221
+Kia ,Forte,2024,6.7,34 / 30 / 41 mpg,4 Cylinder,2.0L,147,2908,"$21,145 ",182.7,106.3,https://www.caranddriver.com/kia/forte 
+Kia,Optima,2020,7.5,42 / 40 / 45 mpg,4 Cylinder,2.0L,192,3496,"$24,355 ",191.1,110.4,https://www.caranddriver.com/kia/optima
+Kia,Rio,2023,8.6,36 / 32 / 41 mpg,4 Cylinder,1.6L,120,2767,"$17,905 ",172.6,101.6,https://www.caranddriver.com/kia/rio
+Mazda ,3,2024,5.6,31 / 27 / 37 mpg,4 Cylinder,2.5L,191,3124,"$25,335 ",183.5,107.3,https://www.caranddriver.com/mazda/mazda-3
+Nissan,Sentra,2024,9.5,34 / 30 / 40 mpg,4 Cylinder,2.0L,149,3036,"$22,030 ",182.9,106.6,https://www.caranddriver.com/nissan/versa
+Nissan,Altima,2024,7.6,32 / 27 / 39 mpg,4 Cylinder,2.5L,188,3253,"$27,140 ",192.9,111.2,https://www.caranddriver.com/nissan/altima
+Nissan,Maxima,2023,5.7, 24 / 20 / 30 mpg,V-6,3.5L,300,3609,"$39,455 ",192.8,109.3,https://www.caranddriver.com/nissan/maxima-2023
+Nissan,Versa,2024,9.5,30 / 27 / 35 mpg,4 Cylinder,1.6L,122,2599,"$17,530 ",177,103.1,https://www.caranddriver.com/nissan/versa
+Subaru,Impreza,2024,7.8,30/27/34 mpg,4 Cylinder,2.0L,152,3171,"$24,115 ",176.2,105.1,https://www.caranddriver.com/subaru/impreza
+Subaru,Legacy,2024,8,30 / 27 / 35 mpg,4 Cylinder,2.5,182,3491,"$26,015 ",191.1,108.3,https://www.caranddriver.com/subaru/legacy
+Toyota,Crown,2024,7.2,41 / 42 / 41 mpg,4Cylinder /eletric motor,2.5L,236,3980,"$41,445 ",196.1,112.2,https://www.caranddriver.com/toyota/crown
+Toyota,Camry,2024,7.4,32 / 28 / 39 mpg,4 Cylinder,2.5L,203,3310,"$27,515 ",192.1,111.2,https://www.caranddriver.com/toyota/camry-2024
+Toyota,Corolla,2024,8.2, 35 / 32 / 41 mpg,4 Cylinder,2.0L,169,2955,"$23,145 ",182.5,106.3,https://www.caranddriver.com/toyota/corolla
+Volkswagen,Arteon,2024,4.6,25 / 22 / 30 mpg,4 Cylinder,2.0L,300,3929,"$49,225 ",191.5,111.9,https://www.caranddriver.com/volkswagen/arteon
+Volkswagen ,Jetta,2024,7.1,34 / 29 / 42 mpg,4 Cylinder,1.5L,158,2895,"$22,660 ",186.5,105.7,https://www.caranddriver.com/volkswagen/jetta
+Volkswagen,Passat,2021,7.8,28 / 24 / 36 mpg,4 Cylinder,2.0L,174,3314,"$24,990 ",193.6,110.4,https://www.caranddriver.com/volkswagen/passat-2021
+,,,,,,,,,,,,
+last update Feb 7th 2024,,,,,,,,,,,,
